@@ -31,4 +31,4 @@ In spite of being on a global rank of 6 as per http://www.alexa.com/ analytics, 
      Account creation requires username and password but email is optional so a user can create multiple accounts and alter the              information.
 
   Team Information
-  Our team members are Akshay Choudhary, Garima Deshpande, Priyanka Pagare and Tejas Washindkar. All team members are Information         Systems major and have same amount of technical experience and exposure to the concepts and tools used. All team members will           individually analyze the website and identify the potential changes required, input will be taken from analysis done by all team         members and necessary and feasible changes will be finalized by the whole team. The project will be divided into various modules and     all these modules will be equally divided into team members for implementation. After implementation, all modules will be reviewed by   the whole team to take their input if the user experience can be further improved.
+  Our team members were Akshay Choudhary, Garima Deshpande, Priyanka Pagare and Tejas Washindkar. 
